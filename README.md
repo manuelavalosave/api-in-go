@@ -1,4 +1,4 @@
-Claro, aquí tienes un resumen de lo que hace tu código en Go:
+aquí tienes un resumen de lo que hace tu código en Go:
 
 1. **Importación de paquetes**: El código importa varios paquetes necesarios:
    - `encoding/json` para trabajar con datos JSON.
